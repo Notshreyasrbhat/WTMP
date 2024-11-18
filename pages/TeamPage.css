@@ -1,0 +1,27 @@
+.team-page {
+    text-align: center;
+    margin: 50px auto;
+    max-width: 800px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .team-page h2 {
+    font-size: 2rem;
+    color: #232f3e;
+    margin-bottom: 20px;
+  }
+  
+  .team-page ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .team-page li {
+    font-size: 1.2rem;
+    color: #555;
+    margin: 10px 0;
+  }
+  

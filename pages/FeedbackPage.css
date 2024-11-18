@@ -1,0 +1,46 @@
+.feedback-page {
+    text-align: center;
+    margin: 50px auto;
+    max-width: 600px;
+    padding: 20px;
+    background-color: #eef2f3;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .feedback-page h2 {
+    font-size: 2rem;
+    color: #232f3e;
+    margin-bottom: 20px;
+  }
+  
+  .feedback-page form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .feedback-page textarea {
+    resize: none;
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    min-height: 100px;
+  }
+  
+  .feedback-page button {
+    background-color: #ff9900;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background-color 0.3s;
+  }
+  
+  .feedback-page button:hover {
+    background-color: #cc7a00;
+  }
+  
